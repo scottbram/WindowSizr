@@ -1,8 +1,8 @@
 //
 // Standalone javascript that displays the window
 // size in an unobtrusive manner and appends a
-// description of the to the page title
-// corresponding to current width
+// description to the page title
+// corresponding to the current width
 // https://github.com/squarecat/WindowSizr
 // http://twitter.com/sbram
 //
