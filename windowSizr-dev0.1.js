@@ -3,7 +3,7 @@
 // size in an unobtrusive manner and appends a
 // description to the page title
 // corresponding to the current width
-// https://github.com/squarecat/WindowSizr
+// https://github.com/thatbram/WindowSizr
 // http://twitter.com/sbram
 //
 
